@@ -2,7 +2,7 @@ pipeline {
 
     agent {
 
-        docker {image 'bearer/bearer:latest '}
+        docker {image 'bearer/bearer:latest'}
     }
 
  
